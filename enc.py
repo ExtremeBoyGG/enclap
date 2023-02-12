@@ -126,7 +126,6 @@ def menu():
 	print ("             {}║{} 13 {}║ {}Encrypt {}Bytes Code           {}║").format(biru,putih,biru,gray,putih,biru)
 	print ("             {}║{} 14 {}║ {}Encrypt {}Emoticon             {}║").format(biru,putih,biru,gray,putih,biru)
 	print ("             {}║{} 15 {}║ {}Encrypt {}Simple Enc           {}║").format(biru,putih,biru,gray,putih,biru)
-	print ("             {}║{} 16 {}║ {}Encrypt {}Obfuscate Hard       {}║").format(biru,putih,biru,gray,putih,biru)
 	print ("             {}╚════╩══════════════════════════════╝\n".format(biru))
 
 	jenis=int(raw_input(cyan+'[ '+kuning+'+ '+cyan+'] '+merah+'Compile Type : '+hijau))
